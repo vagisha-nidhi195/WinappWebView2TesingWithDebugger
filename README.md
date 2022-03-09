@@ -6,7 +6,9 @@ We are using the details on https://docs.microsoft.com/en-us/microsoft-edge/webv
 I have tested this with two basic apps (UWP and WPF). The solution works for a WPF app but does not for UWP (might be missing implementations in the XAML library)
 
 Versions (Using the latest pre-release versions in UWP):
+
 Microsoft.UI.Xaml: 2.8.0-prerelease.220118001
+
 Microsoft.Web.WebView2: 1.0.1158-prerelease
 
 # Steps to reproduce
