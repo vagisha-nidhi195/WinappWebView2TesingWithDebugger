@@ -1,0 +1,9 @@
+C:\Users\vagishn\Downloads\WebViewHostTest\WebViewHostTest\bin\Debug\EdgeDriverTestRunner.exe.config
+C:\Users\vagishn\Downloads\WebViewHostTest\WebViewHostTest\bin\Debug\EdgeDriverTestRunner.exe
+C:\Users\vagishn\Downloads\WebViewHostTest\WebViewHostTest\bin\Debug\EdgeDriverTestRunner.pdb
+C:\Users\vagishn\Downloads\WebViewHostTest\WebViewHostTest\EdgeDriverTestRunner\obj\Debug\EdgeDriverTestRunner.csproj.AssemblyReference.cache
+C:\Users\vagishn\Downloads\WebViewHostTest\WebViewHostTest\EdgeDriverTestRunner\obj\Debug\EdgeDriverTestRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\vagishn\Downloads\WebViewHostTest\WebViewHostTest\EdgeDriverTestRunner\obj\Debug\EdgeDriverTestRunner.csproj.CoreCompileInputs.cache
+C:\Users\vagishn\Downloads\WebViewHostTest\WebViewHostTest\EdgeDriverTestRunner\obj\Debug\EdgeDriverTestRunner.csproj.CopyComplete
+C:\Users\vagishn\Downloads\WebViewHostTest\WebViewHostTest\EdgeDriverTestRunner\obj\Debug\EdgeDriverTestRunner.exe
+C:\Users\vagishn\Downloads\WebViewHostTest\WebViewHostTest\EdgeDriverTestRunner\obj\Debug\EdgeDriverTestRunner.pdb
