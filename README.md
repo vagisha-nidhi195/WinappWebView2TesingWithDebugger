@@ -35,7 +35,7 @@ WPF
    * Navigate to *localhost://{port_no}*. You can see the html debugger.
 
 UWP
-   * The XAML controls webview2 does not contain an api to refresh/load the api with a custom **CoreWebView2EnvironmentOptions**: https://docs.microsoft.com/en-us/windows/winui/api/microsoft.ui.xaml.controls.webview2.ensurecorewebview2async?view=winui-3.0
+   * The XAML controls webview2 does not contain an api to refresh/load the webview with a custom **CoreWebView2EnvironmentOptions**: https://docs.microsoft.com/en-us/windows/winui/api/microsoft.ui.xaml.controls.webview2.ensurecorewebview2async?view=winui-3.0
 
 
 # Expectations
