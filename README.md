@@ -2,7 +2,7 @@
 Windows UWP and WPF app testing with WebView2 and opening up the remote debugger.
 
 # Details
-We are using the details on https://docs.microsoft.com/en-us/microsoft-edge/webview2/how-to/webdriverto try an open a debugger port on UWP app, but are facing some challenges in doing so.
+We are using the details on https://docs.microsoft.com/en-us/microsoft-edge/webview2/how-to/webdriver to try an open a debugger port on UWP app, but are facing some challenges in doing so.
 I have tested this with two basic apps (UWP and WPF). The solution works for a WPF app but does not for UWP (might be missing implementations in the XAML library)
 
 Versions (Using the latest pre-release versions in UWP):
